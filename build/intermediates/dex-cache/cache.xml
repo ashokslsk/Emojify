@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/.android/build-cache/b80ec80d26be0b4edc0fd3fc9e17a207512318ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/Ashok/Documents/Practices/AdvancedAndroid_Emojify/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ecd5170fde601b4896a6083c1099aa014b541024/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/.android/build-cache/59a1d538c3d07d98f35b7d318048fdca9207837a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/Ashok/Documents/Practices/AdvancedAndroid_Emojify/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2bac4c65366afd24a4f5c11037160b2b75069ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/.android/build-cache/ae6cbfd7d77c7797a23f4f6b4cae141b067927db/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/Ashok/Documents/Practices/AdvancedAndroid_Emojify/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb5f2bbd0eab6124fe14d452df2f4dd64853a646/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/Ashok/Documents/Practices/AdvancedAndroid_Emojify/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_21dde1cf45accdc0b4e09ceb3e3befc75584c776/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/Documents/Practices/AdvancedAndroid_Emojify/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/Ashok/Documents/Practices/AdvancedAndroid_Emojify/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_559c2839099b360e20d12c83871eb9f0807b3f16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/.android/build-cache/7d81aeee0f19837203f631927a7e308db5c21266/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/Ashok/Documents/Practices/AdvancedAndroid_Emojify/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1324aedc054b0d00d75f176d43d19879fc96e1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/.android/build-cache/e4e647c380daaaae8addb75d7b4ae85f97a08e32/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/Ashok/Documents/Practices/AdvancedAndroid_Emojify/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0dec52374afe8a08c3245b88d6b5328428829b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/.android/build-cache/8948b89115d6e95a39f79f3ad980ed28741ce45a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/Ashok/Documents/Practices/AdvancedAndroid_Emojify/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e21d9831c65716d6a9b86cb9e8f5f2a30083e1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/Documents/Practices/AdvancedAndroid_Emojify/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e3a7e312b97046a0c185b2c26f48edf3740a5ff">
+        <dex dex="/Users/Ashok/Documents/Practices/AdvancedAndroid_Emojify/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bb950b9413df361d8dd0e65a09d4a8116512ec25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/.android/build-cache/100cae175b1a5008c9a5c4b74a7a0b715a8c162e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/Ashok/Documents/Practices/AdvancedAndroid_Emojify/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3669ff58b4f089a0a7b41bf6d00b27ee09d711e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/.android/build-cache/5eeec3a4f4579508f461a0c817f2f061e6e91df7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/Ashok/Documents/Practices/AdvancedAndroid_Emojify/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_598a52036758efd6ffcfe2347119db46a72893d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/.android/build-cache/c513575984a5371f538ac734a15305dbbdbeeada/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/Ashok/Documents/Practices/AdvancedAndroid_Emojify/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_226ff178a256484ee7f86a4fd701cf9ccf4371b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/.android/build-cache/77ad2f83ac304b18bce01b75f671f1595b83c19f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c74c28a44292b6480afe69ddb2c0974f45393a3a">
+        <dex dex="/Users/Ashok/Documents/Practices/AdvancedAndroid_Emojify/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40832407f11008e33584e760d17e23264b806ce1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/.android/build-cache/93b344b3cdb220f1ede6ea4d69a7f653c36c26e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/Ashok/Documents/Practices/AdvancedAndroid_Emojify/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47dec078b58744ae088ce99bc6d12b316e048258/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ashok/.android/build-cache/7aad668f7aa3f74f3df19db26399e0917af7e2b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/Ashok/Documents/Practices/AdvancedAndroid_Emojify/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b0c7620fa7ec7548708cfee2d258503fcfb3c071/classes.dex" />
+    </item>
+
+</items>
