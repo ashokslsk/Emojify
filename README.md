@@ -1,5 +1,9 @@
 # AdvancedAndroid_Emojify
 
+![Screen 1](https://github.com/ashokslsk/Emojify/blob/master/Screens/device-2017-07-28-170951.png)
+![Screen 2](https://github.com/ashokslsk/Emojify/blob/master/Screens/device-2017-07-28-171103.png)
+
+
 This is the toy app for the Libraries lesson of the [Advanced Android App Development course on Udacity](https://www.udacity.com/course/advanced-android-app-development--ud855).
 
 ## How to use this repo while taking the course
@@ -93,5 +97,3 @@ The **Diff** link will take you to a Github diff as seen below:
 )
 
 All of the code that was added in the solution is in green, and the removed code (which will usually be the TODO comments) is in red. 
-## Report Issues
-Notice any issues with a repository? Please file a github issue in the repository.
