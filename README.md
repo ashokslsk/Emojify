@@ -1,4 +1,4 @@
-# AdvancedAndroid_Emojify
+# Advanced Android_Emojify
 
 ![Screen 1](https://github.com/ashokslsk/Emojify/blob/master/Screens/device-2017-07-28-170951.png)
 ![Screen 2](https://github.com/ashokslsk/Emojify/blob/master/Screens/device-2017-07-28-171103.png)
